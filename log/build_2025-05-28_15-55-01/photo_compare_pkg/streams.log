@@ -1,0 +1,24 @@
+[0.318s] Invoking command in '/home/choi/compare_ws/src/photo_compare_pkg': PYTHONPATH=/home/choi/compare_ws/build/photo_compare_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/choi/compare_ws/install/photo_compare_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/photo_compare_pkg build --build-base /home/choi/compare_ws/build/photo_compare_pkg/build install --record /home/choi/compare_ws/build/photo_compare_pkg/install.log --single-version-externally-managed install_data
+[0.441s] running egg_info
+[0.441s] writing ../../build/photo_compare_pkg/photo_compare_pkg.egg-info/PKG-INFO
+[0.441s] writing dependency_links to ../../build/photo_compare_pkg/photo_compare_pkg.egg-info/dependency_links.txt
+[0.441s] writing entry points to ../../build/photo_compare_pkg/photo_compare_pkg.egg-info/entry_points.txt
+[0.441s] writing requirements to ../../build/photo_compare_pkg/photo_compare_pkg.egg-info/requires.txt
+[0.441s] writing top-level names to ../../build/photo_compare_pkg/photo_compare_pkg.egg-info/top_level.txt
+[0.442s] reading manifest file '../../build/photo_compare_pkg/photo_compare_pkg.egg-info/SOURCES.txt'
+[0.442s] writing manifest file '../../build/photo_compare_pkg/photo_compare_pkg.egg-info/SOURCES.txt'
+[0.442s] running build
+[0.442s] running build_py
+[0.442s] copying photo_compare_pkg/compare_run_photos.py -> /home/choi/compare_ws/build/photo_compare_pkg/build/lib/photo_compare_pkg
+[0.443s] running install
+[0.443s] running install_lib
+[0.443s] copying /home/choi/compare_ws/build/photo_compare_pkg/build/lib/photo_compare_pkg/compare_run_photos.py -> /home/choi/compare_ws/install/photo_compare_pkg/lib/python3.10/site-packages/photo_compare_pkg
+[0.443s] byte-compiling /home/choi/compare_ws/install/photo_compare_pkg/lib/python3.10/site-packages/photo_compare_pkg/compare_run_photos.py to compare_run_photos.cpython-310.pyc
+[0.444s] running install_data
+[0.444s] running install_egg_info
+[0.445s] removing '/home/choi/compare_ws/install/photo_compare_pkg/lib/python3.10/site-packages/photo_compare_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.445s] Copying ../../build/photo_compare_pkg/photo_compare_pkg.egg-info to /home/choi/compare_ws/install/photo_compare_pkg/lib/python3.10/site-packages/photo_compare_pkg-0.0.0-py3.10.egg-info
+[0.445s] running install_scripts
+[0.456s] Installing compare_photos script to /home/choi/compare_ws/install/photo_compare_pkg/lib/photo_compare_pkg
+[0.456s] writing list of installed files to '/home/choi/compare_ws/build/photo_compare_pkg/install.log'
+[0.467s] Invoked command in '/home/choi/compare_ws/src/photo_compare_pkg' returned '0': PYTHONPATH=/home/choi/compare_ws/build/photo_compare_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/choi/compare_ws/install/photo_compare_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/photo_compare_pkg build --build-base /home/choi/compare_ws/build/photo_compare_pkg/build install --record /home/choi/compare_ws/build/photo_compare_pkg/install.log --single-version-externally-managed install_data

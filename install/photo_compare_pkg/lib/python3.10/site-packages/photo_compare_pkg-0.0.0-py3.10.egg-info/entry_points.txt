@@ -1,0 +1,3 @@
+[console_scripts]
+compare_photos = photo_compare_pkg.compare_run_photos:main
+

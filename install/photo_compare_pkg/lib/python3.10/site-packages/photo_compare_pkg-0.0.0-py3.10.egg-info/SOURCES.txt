@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/photo_compare_pkg/photo_compare_pkg.egg-info/PKG-INFO
+../../build/photo_compare_pkg/photo_compare_pkg.egg-info/SOURCES.txt
+../../build/photo_compare_pkg/photo_compare_pkg.egg-info/dependency_links.txt
+../../build/photo_compare_pkg/photo_compare_pkg.egg-info/entry_points.txt
+../../build/photo_compare_pkg/photo_compare_pkg.egg-info/requires.txt
+../../build/photo_compare_pkg/photo_compare_pkg.egg-info/top_level.txt
+../../build/photo_compare_pkg/photo_compare_pkg.egg-info/zip-safe
+photo_compare_pkg/__init__.py
+photo_compare_pkg/compare_run_photos.py
+resource/photo_compare_pkg
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
